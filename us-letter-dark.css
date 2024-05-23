@@ -1,4 +1,4 @@
-/* @theme a4-dark */
+/* @theme us-letter-dark */
 
 @import 'base';
 @import 'atom-one-dark.css';
@@ -7,9 +7,9 @@
 /* A4 by stanfrbd */
 
 section {
-    width: 21cm;
-    height: 29.7cm;
-    font-family: 'Rubik', sans-serif;
+    width: 215.9mm; /* Letter size width */
+    height: 279.4mm; /* Letter size height */  
+    font-family: Liberation Sans;/*sans-serif;*/
     align-items: stretch;
     background: #202228;
     color: #ABB2BF;
